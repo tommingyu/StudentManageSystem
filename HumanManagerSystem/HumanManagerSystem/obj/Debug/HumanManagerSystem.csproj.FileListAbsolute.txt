@@ -1,0 +1,10 @@
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\bin\Debug\HumanManagerSystem.exe.config
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\bin\Debug\HumanManagerSystem.exe
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\bin\Debug\HumanManagerSystem.pdb
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.csproj.AssemblyReference.cache
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.Form1.resources
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.Properties.Resources.resources
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.csproj.GenerateResource.cache
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.exe
+C:\Users\tommi\source\repos\HumanManagerSystem\HumanManagerSystem\obj\Debug\HumanManagerSystem.pdb
